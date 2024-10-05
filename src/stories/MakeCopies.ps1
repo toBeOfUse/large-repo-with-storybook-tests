@@ -1,7 +1,7 @@
 # Define the paths
 $originalFile = "LotsOfStuff.stories.ts"
 $destinationDir = "LotsOfStories"
-$copiesCount = 900
+$copiesCount = 400
 
 # reset the destination directory by deleting and recreating it
 Remove-Item -Recurse -Force $destinationDir
