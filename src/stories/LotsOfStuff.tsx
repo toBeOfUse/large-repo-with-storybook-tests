@@ -1,3 +1,13 @@
+/**
+ * gpt-4o. prompt:
+ * 
+ * Please create a large, complex React page. It should have a header with
+ * dropdowns and an openable drawer, a main section with a form with many
+ * arbitrary fields, and a footer with links and icons. Use whatever external
+ * packages you want. The content of the page doesn't matter; I just want a
+ * large, complex page to try out a testing framework with.
+ */
+
 import React, { useState } from 'react';
 import {
   AppBar,
